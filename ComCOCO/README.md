@@ -28,3 +28,4 @@ The ComCOCO dataset consists of 107,912 referring expressions for 34,615 objects
   * val
 
 ## Samples
+![image](https://github.com/ROR-source/ComCOCO-SAHM/blob/main/ComCOCO/samples.png)
