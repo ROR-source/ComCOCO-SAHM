@@ -1,2 +1,3 @@
-# ComCOCO-SAHM
-Referring Object Removal
+# Referring Object Removal
+## dataset->ComCOCO
+## code->SAHM
