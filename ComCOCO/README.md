@@ -8,10 +8,17 @@ The ComCOCO dataset consists of 107,912 referring expressions for 34,615 objects
   * train
     * image_info_train.json
     * image_train
+      * ComCOCO_train_00000.jpg
       * ComCOCO_train_00001.jpg
       * ComCOCO_train_00002.jpg
       * ...
+    * image_train_mask
+      * ComCOCO_train_00000_mask.jpg
+      * ComCOCO_train_00001_mask.jpg
+      * ComCOCO_train_00002_mask.jpg
+      * ...
     * image_train_remo
+      * ComCOCO_train_00000_remo.jpg
       * ComCOCO_train_00001_remo.jpg
       * ComCOCO_train_00002_remo.jpg
       * ...
