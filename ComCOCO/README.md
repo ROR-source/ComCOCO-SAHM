@@ -1,5 +1,5 @@
 # ComCOCO
-We have uploaded partial data on GitHub for evaluation and testing, and the complete dataset will be released on Google.
+We have uploaded partial data on GitHub for evaluation and testing, and the complete dataset will be released on google driver.
 
 ## Statistics
 
