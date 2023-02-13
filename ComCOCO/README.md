@@ -21,9 +21,9 @@ The ComCOCO dataset consists of 107,912 referring expressions for 34,615 objects
       * ComCOCO_test_00002_mask.jpg
       * ...
     * train_image_remo
-      * ComCOCO_test_00000_remo.jpg
-      * ComCOCO_test_00001_remo.jpg
-      * ComCOCO_test_00002_remo.jpg
+      * ComCOCO_test_00000_rem.jpg
+      * ComCOCO_test_00001_rem.jpg
+      * ComCOCO_test_00002_rem.jpg
       * ...
   * test
   * val
